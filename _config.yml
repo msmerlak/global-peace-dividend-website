@@ -10,16 +10,17 @@
 ############################
 
 # Name of website
-title: Global Peace Dividend
+title: The Global Peace Dividend Initiative
 
 # Your name to show in the footer
-author: The Global Peace Dividend Initiative
+author: The Global Peace Dividend Initiative - Logo © Le Closier
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
+  Media: "media"
   About: "about"
 
 ################
@@ -28,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/brotherhood-II.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -46,21 +47,22 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: GlobalPeaceDivd
+  twitter: trilliontreaty
+  # email: "rovelli.carlo@gmail.com"
+  # instagram: trilliontreaty
+  # github: daattali
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
